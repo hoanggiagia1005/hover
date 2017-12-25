@@ -1,0 +1,17 @@
+[debug] [2017-12-25T13:54:54.698Z] ----------------------------------------------------------------------
+[debug] [2017-12-25T13:54:54.706Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Local\Yarn\config\global\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2017-12-25T13:54:54.707Z] CLI Version:   3.16.0
+[debug] [2017-12-25T13:54:54.707Z] Platform:      win32
+[debug] [2017-12-25T13:54:54.707Z] Node Version:  v6.11.3
+[debug] [2017-12-25T13:54:54.709Z] Time:          Mon Dec 25 2017 20:54:54 GMT+0700 (SE Asia Standard Time)
+[debug] [2017-12-25T13:54:54.709Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-12-25T13:54:54.745Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-12-25T13:54:54.746Z] > authorizing via signed-in user
+[debug] [2017-12-25T13:54:54.754Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/hover-4d550  
+  
+ Mon Dec 25 2017 20:54:54 GMT+0700 (SE Asia Standard Time)
+[debug] [2017-12-25T13:54:56.195Z] <<< HTTP RESPONSE 200
+[debug] [2017-12-25T13:54:56.198Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/hover-4d550/tokens  
+  
+ Mon Dec 25 2017 20:54:56 GMT+0700 (SE Asia Standard Time)
